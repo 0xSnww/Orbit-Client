@@ -40,4 +40,4 @@ Orbit updates itself. Updates are signed, and you can roll back to the previous 
 - Orbit never injects into or modifies the game client.
 - Found a bug? Settings → About → **Save diagnostics** makes a zip to attach. Accounts, cookies and tickets are removed.
 
-Orbit is closed source; this repo only hosts releases. Not affiliated with Roblox Corporation or Valve.
+Orbit is closed source. This repo only hosts releases. Not affiliated with Roblox Corporation or Valve.
